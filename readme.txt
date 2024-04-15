@@ -11,3 +11,4 @@ This can reduce the tedious task of manually running the robot for mapping.
 
 NOTE: a) The algorithm used is a simple form of PD controller. This works well in this case but the bot sometimes has a problem as seen in the end of the video so please do tell me what other methods can be used to make a better controller for future iterations.
 b) Furthermore the tflite model is also a bit less accurate compared to other available models so that can also be changed to improve the bot navigation.
+TURTLEBOT LICENSE> https://github.com/ROBOTIS-GIT/turtlebot3/blob/master/LICENSE
